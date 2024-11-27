@@ -6420,7 +6420,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "audio4setDesigner.wav",
 				"bootpath" : "/Volumes/hard drive/IMCA 221/final",
-				"patcherrelativepath" : ".",
+				"patcherrelativepath" : "../..",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
